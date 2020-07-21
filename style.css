@@ -1,0 +1,54 @@
+.home{
+    background:#eff0f1;
+    
+}
+.navbar ul li {
+    color: black;
+    font-size: 14px;
+    font-family: Rboto,sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding-right:30px;
+   
+}
+.navbar ul li a{
+    color:black;
+}
+.navbar ul li button{
+    background-color: black;
+    color:white;
+    border:none;
+    padding:12px 25px;
+}
+section.header1{
+    padding-top:90px;
+    padding-bottom:90px;
+    background-image:url("images/background2.jpg");
+}
+section {
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header1 .block {
+    background-color: #ffda00;
+}
+.header1 .content-wrapper {
+    padding: 6rem 4rem;
+}
+.header1 .row {
+    justify-content: flex-end;
+}
+img.logo-image{
+    width:70px;
+    height:70px;
+}
+h2.display-1 {
+    font-family: 'Barlow', sans-serif;
+    font-size: 4.8rem;
+    letter-spacing: -1px;
+    font-weight: 700;
+}
+.navbar{
+    margin-bottom:5px;
+}
